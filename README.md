@@ -1,6 +1,6 @@
 ## Island groupe ISG
 
-###Bienvenue sur le projet de QGL de l'équipe G !
+### Bienvenue sur le projet de QGL de l'équipe G !
 
 ##### Sujet
 Ce projet a pour but d'explorer et exploiter des îles.  
